@@ -1,0 +1,23 @@
+{
+  "name": "interactivegame",
+  "version": "12.13.1",
+  "description": "InteractiveGame",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexShutGit/InteractiveGame.git"
+  },
+  "author": "Vlad Alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexShutGit/InteractiveGame/issues"
+  },
+  "homepage": "https://github.com/AlexShutGit/InteractiveGame#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "prettier": "^1.19.1"
+  }
+}
